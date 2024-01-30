@@ -2,7 +2,7 @@
 ## By Alice L. W. Gallindo, Maria Clara M. B. Dias, Poliana J. N. Viana, Sofia M. Ratis, with the support of Carlos Miguel C. Vasconcelos and prof. Rafael Mesquita (Federal University of Pernambuco, Brazil)
 ### Prepared for the 2024 Data Visualization Competition of the DataConnect Conference
 
-When and how did women begin being involved in the subject of international peace and security?
+When and how did women begin to be part of the conversation on global peace and security?
 
 This series of visualizations aim to intention to translate, in an accessible way, how the resolutions adopted by the UN Security Council - the highest international body on war and peace - addressed issues relating to women in international conflicts.  
 
@@ -23,7 +23,7 @@ insert static, link to interactive
 .. https://rpubs.com/rafaelmesquita/dataviz24_sc_fig1
 
 ### What terms characterized each decade? :speech_balloon:
-The following plot is a comparative word could that indicates what words were most peculiar to each time period. It allows us to see, from the first mentions to women in Security Council resolutions in the 1990s, until the current decade, what were some of the accompanying topics and the context in which women were being references. The distinctive terms for each of the four decades show
+The following plot is a comparative wordcloud that indicates what words were distinctive to each time period. It allows us to see, from the first mentions to women in Security Council resolutions in the 1990s, until the current decade, what were some of the accompanying topics and the context in which women were being references. The terms unique to each decade show some of the hot-spots with which the international community was grappling at each point in time and the UN missions deployed to these locations.
 
 ![comparison wordcloud static](/static/fig2.png)
 
