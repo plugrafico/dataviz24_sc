@@ -16,9 +16,9 @@ We found 47 communities, of which five stood out, as they gathered the majority 
 
 ### Explore the network of UN Security Council resolutions on the topic of women :dove:
 
-link
-https://ouestware.gitlab.io/retina/1.0.0-beta.1/#/graph/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplugrafico%2Fdataviz24_sc%2Fmain%2Fstatic%2Fgc.graphml&sa=i-n&ca=cu-s&fa[]=n&fa[]=y-n&fa[]=t&fa[]=s&fa[]=ce&st[]=n&st[]=t&st[]=s&st[]=d&st[]=i-n&st[]=ce&er=0.566&lt=0.392&ls=15&le=15
+Click on the image or [here](/static/graph.png) for interactive chart
 
+[![figure graph](https://ouestware.gitlab.io/retina/1.0.0-beta.1/#/graph/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplugrafico%2Fdataviz24_sc%2Fmain%2Fstatic%2Fgc.graphml&n=n49&sa=i-n&ca=cu-s&fa[]=n&fa[]=y-n&fa[]=t&fa[]=s&fa[]=ce&st[]=n&st[]=t&st[]=s&st[]=d&st[]=i-n&st[]=ce&er=0.566&lt=0.392&ls=15&le=15)
 
 <iframe
   width="800"
