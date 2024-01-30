@@ -13,14 +13,19 @@ Of the 2,671 resolutions passed by the Security Council, since its creation unti
 We found 47 communities, of which five stood out, as they gathered the majority of documents and some of the most cited ones. To allow users to interactively explore this network and autonomously learn about the many ways in which women were mentioned at the Security Council, we fed this data to the [Retina web application](https://ouestware.gitlab.io/retina/1.0.0-beta.1/#/) to build an interactive visualization. By clicking at each node in the network, users will see the title of the resolution, its incoming and outgoing citations, and read a small summary that we have manually composed for the most salient resolutions, explaining their content and importance for women in international peace and security.
 
 
+
 ### Explore the network of UN Security Council resolutions on the topic of women :dove:
 
 link
 
-### Fig 2 :bar_chart:
+### How salient is the topic of women on UN Security Council resolutions over the years? :bar_chart:
 
-insert static, link to interactive
-.. https://rpubs.com/rafaelmesquita/dataviz24_sc_fig1
+Click on the image or [here](https://rpubs.com/rafaelmesquita/dataviz24_sc_fig1) for interactive chart
+
+[![figure plotly](static/fig_plotly.png)](https://rpubs.com/rafaelmesquita/dataviz24_sc_fig1)
+
+
+
 
 ### What terms characterized each decade? :speech_balloon:
 The following plot is a comparative wordcloud that indicates what words were distinctive to each time period. It allows us to see, from the first mentions to women in Security Council resolutions in the 1990s, until the current decade, what were some of the accompanying topics and the context in which women were being references. The terms unique to each decade show some of the hot-spots with which the international community was grappling at each point in time and the UN missions deployed to these locations.
