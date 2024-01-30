@@ -4,7 +4,7 @@
 
 When and how did women begin to be part of the conversation on global peace and security?
 
-This series of visualizations aim to intention to translate, in an accessible way, how the resolutions adopted by the UN Security Council - the highest international body on war and peace - addressed issues relating to women in international conflicts.  
+This series of visualizations aim to translate, in an accessible way, how the resolutions adopted by the UN Security Council - the highest international body on war and peace - addressed issues relating to women in international conflicts.  
 
 The project is based on a corpus containing all resolutions adopted by the Security Council. The original PDFs for each resolution that were available in the [UN Digital Library](https://digitallibrary.un.org/) were transformed them into digital text using Optical Character Reading (OCR) and, given the state of some older documents, corrected for typos and any imprecise conversion. 
 
