@@ -6,7 +6,7 @@ When and how did women begin to be part of the conversation on global peace and 
 
 This series of visualizations aim to translate, in an accessible way, how the resolutions adopted by the UN Security Council - the highest international body on war and peace - addressed issues relating to women in international conflicts.  
 
-The project is based on a corpus containing all resolutions adopted by the Security Council. The original PDFs for each resolution that were available in the [UN Digital Library](https://digitallibrary.un.org/) were transformed them into digital text using Optical Character Reading (OCR) and, given the state of some older documents, corrected for typos and any imprecise conversion. 
+The project is based on a corpus containing all resolutions adopted by the Security Council. The original PDFs for each resolution that were available in the [UN Digital Library](https://digitallibrary.un.org/) were transformed then into digital text using Optical Character Reading (OCR) and, given the state of some older documents, corrected for typos and any imprecise conversion. 
 
 Of the 2,671 resolutions passed by the Security Council, since its creation until 2022, we selected those that mentioned the keyword ‘women’ in their text. A total of 562 resolutions evoked the term. As the resolutions are not meaningful in isolation, we organized them into a citation network. We detected what other within-corpus resolutions were cited as precedent by each new resolution. The resulting network was submitted to the [InfoMap community detection algorithm](https://www.mapequation.org/) to identify clusters formed by the density of citation patterns.[^1] 
 
