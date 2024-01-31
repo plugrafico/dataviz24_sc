@@ -20,7 +20,7 @@ A bird's eye view of the network indicates that the core community is centered o
 
 Click on the image or [here](https://ouestware.gitlab.io/retina/1.0.0-beta.1/#/graph/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplugrafico%2Fdataviz24_sc%2Fmain%2Fstatic%2Fgc.graphml&n=n49&sa=i-n&ca=cu-s&fa[]=n&fa[]=y-n&fa[]=t&fa[]=s&fa[]=ce&st[]=n&st[]=t&st[]=s&st[]=d&st[]=i-n&st[]=ce&er=0.566&lt=0.392&ls=15&le=15) to explore the interactive network on your own.
 
-![figure graph](/static/graph.png)
+[![figure graph](/static/graph.png)](https://ouestware.gitlab.io/retina/1.0.0-beta.1/#/graph/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplugrafico%2Fdataviz24_sc%2Fmain%2Fstatic%2Fgc.graphml&n=n49&sa=i-n&ca=cu-s&fa%5B%5D=n&fa%5B%5D=y-n&fa%5B%5D=t&fa%5B%5D=s&fa%5B%5D=ce&st%5B%5D=n&st%5B%5D=t&st%5B%5D=s&st%5B%5D=d&st%5B%5D=i-n&st%5B%5D=ce&er=0.566&lt=0.392&ls=15&le=15)
 
 
 
